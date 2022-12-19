@@ -1,4 +1,4 @@
-### Hi there 👋
+### About Me 🔭
 
 <!--
 **mnkd246/mnkd246** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
